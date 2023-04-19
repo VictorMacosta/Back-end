@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "title": "juguete",
+        "description": "pelota",
+        "price": 3000,
+        "thumbnail": "en proceso",
+        "stock": 100,
+        "code": "SD159"
+    },
+    {
+        "id": 2,
+        "title": "juguete",
+        "description": "pelota",
+        "price": 3000,
+        "thumbnail": "en proceso",
+        "stock": 100,
+        "code": "SD159"
+    },
+    {
+        "id": 3,
+        "title": "juguete",
+        "description": "pelota",
+        "price": 3000,
+        "thumbnail": "en proceso",
+        "stock": 100,
+        "code": "SD159"
+    },
+    {
+        "id": 4,
+        "title": "juguete",
+        "description": "pelota",
+        "price": 3000,
+        "thumbnail": "en proceso",
+        "stock": 100,
+        "code": "SD159"
+    },
+    {
+        "id": 5,
+        "title": "juguete",
+        "description": "pelota",
+        "price": 3000,
+        "thumbnail": "en proceso",
+        "stock": 100,
+        "code": "SD159"
+    },
+    {
+        "id": 6,
+        "title": "juguete",
+        "description": "pelota",
+        "price": 3000,
+        "thumbnail": "en proceso",
+        "stock": 100,
+        "code": "SD159"
+    },
+    {
+        "id": 2,
+        "title": "juguete",
+        "description": "pelota",
+        "price": 3000,
+        "thumbnail": [
+            "en proceso"
+        ],
+        "stock": 100,
+        "code": "SD158"
+    }
+]
